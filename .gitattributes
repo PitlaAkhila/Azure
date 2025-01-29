@@ -1,1 +1,1 @@
-*.csv text eol=lf charset=UTF-8
+*.pdf binary diff=none
